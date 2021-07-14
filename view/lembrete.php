@@ -33,7 +33,7 @@ include_once 'menu.php';
                 <div class="modal-body">
                     <div class="visevent">
                         <dl class="row">
-                            <dt class="col-sm-3">ID do Lembrete</dt>
+                            <dt class="col-sm-3">ID do Lembrete2</dt>
                             <dd class="col-sm-9" id="id"></dd>
 
                             <dt class="col-sm-3">Título do Lembrete</dt>
